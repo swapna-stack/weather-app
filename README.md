@@ -5,16 +5,16 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
 
 🔹 Features
 
-•Real-time weather updates using API
+• Real-time weather updates using API
 
-•Search by city name
+• Search by city name
 
-•Displays temperature, humidity, wind speed, and weather conditions
+• Displays temperature, humidity, wind speed, and weather conditions
 
-•User-friendly and responsive design
+• User-friendly and responsive design
 
 🔹 Tech Stack
 
-•HTML, CSS, JavaScript
+• HTML, CSS, JavaScript
 
-•OpenWeatherMap API (or whichever API you used)
+• OpenWeatherMap API (or whichever API you used)
